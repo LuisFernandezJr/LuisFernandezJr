@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuisFernandezJr
-- 👀 I’m a Security Operation Engineer performing Threat Hunts and Security Investigations
+- 👀 I’m a Security Operations Engineer performing Threat Hunts and Security Investigations
 - 🌱 I’m currently into Reverse Engineering & Malware Analysis
 
 <!---
